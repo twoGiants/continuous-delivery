@@ -39,3 +39,7 @@ To ensure you don't break the application:
 
 Check-in after each incremental change or refactoring => at the very minimum once a day or several times a day.
 
+### Dependencies
+
+Keep a copy of external libraries (and images; added by me) locally or close to be able to reproduce the build.
+

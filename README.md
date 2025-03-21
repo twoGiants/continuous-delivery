@@ -43,3 +43,12 @@ Check-in after each incremental change or refactoring => at the very minimum onc
 
 Keep a copy of external libraries (and images; added by me) locally or close to be able to reproduce the build.
 
+### Managing Configuration
+
+Treat configuratino of your system the same way you treat you code: Make it subject to proper management and testing.
+
+Everythin that changes between deployments is configuration and should not be baked in or packaged.
+
+Provide configruation information for all applications and environments through the same mechanism.
+
+Keep configuration information specific to each fo your environments in a repository separate from your source code. Keep only the configuration options for your application in the same repository.

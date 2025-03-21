@@ -20,3 +20,12 @@ _Keep absolutely everyhting in version control:_
 - Testers: test scripts and procedures.
 - Project Managers: release plans, progress charts, risk logs.
 - Every member: any file or document related to the project.
+
+In addition to source code and configuration information some store binary images of:
+
+- application servers,
+- compilers,
+- virtual machines,
+- other parts of their toolchain.
+
+Don't keep the binary output of your applications compilation in version control.

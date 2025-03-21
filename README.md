@@ -29,3 +29,13 @@ In addition to source code and configuration information some store binary image
 - other parts of their toolchain.
 
 Don't keep the binary output of your applications compilation in version control.
+
+### Trunk Based Development
+
+To ensure you don't break the application:
+
+- _First:_ run a commit test suite before each check-in.
+- _Second:_ introduce changes incrementally.
+
+Check-in after each incremental change or refactoring => at the very minimum once a day or several times a day.
+

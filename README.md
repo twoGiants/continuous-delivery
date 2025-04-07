@@ -4,11 +4,11 @@ This is a book summary.
 
 ## Chapter 1 The Problem of Delivering Software
 
-Antipattern: Deploying to prod after development is complete.
-> **Note:** Integrate testing, deployment, and release activities into the development process.
+Antipattern: Deploying to prod after development is complete. (p. 7)
+> **Note:** Integrate testing, deployment, and release activities into the development process. (p. 9)
 
-Antipattern: Manual configuration of prod environmants.
-> **Note:** It should not be possible to make manual changes to testing, staging and production environments. Only through an automated process.
+Antipattern: Manual configuration of prod environmants. (p. 9)
+> **Note:** It should not be possible to make manual changes to testing, staging and production environments. Only through an automated process. (p. 10)
 
 ## Chapter 2 Configuration Management
 

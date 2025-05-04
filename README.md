@@ -52,3 +52,7 @@ Everythin that changes between deployments is configuration and should not be ba
 Provide configruation information for all applications and environments through the same mechanism. (p. 42)
 
 Keep configuration information specific to each fo your environments in a repository separate from your source code. Keep only the configuration options for your application in the same repository. (p. 43)
+
+### Accessing Configuration
+
+Best is a central service. You can alos use a REST API. (p.44)

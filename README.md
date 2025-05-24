@@ -56,3 +56,11 @@ Keep configuration information specific to each fo your environments in a reposi
 ### Accessing Configuration
 
 Best is a central service. You can alos use a REST API. (p.44)
+
+### Modeling Configuration
+
+tba
+
+### Testing System Configuration
+
+tba

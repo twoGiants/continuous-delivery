@@ -59,7 +59,7 @@ Best is a central service. You can alos use a REST API. (p.44)
 
 ### Modeling Configuration
 
-tba
+Make prod default and override in other environments. (p. 46)
 
 ### Testing System Configuration
 

@@ -64,3 +64,7 @@ Make prod default and override in other environments. (p. 46)
 ### Testing System Configuration
 
 tba
+
+## Recommended Literature
+
+A list of authors, books and articles recommended by the Contninuous Delivery authors.

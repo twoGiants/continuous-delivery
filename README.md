@@ -72,3 +72,5 @@ A list of authors, books and articles recommended by the Contninuous Delivery au
 - James Shore
   - [The Art of Agile Development book](https://www.jamesshore.com/v2/books/aoad2)
   - [Testing Without Mocks article](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
+
+- [Agile Testing: A Practical Guide for Testers and Agile Teams by Lisa Crispin and Janet Gregory](https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468)

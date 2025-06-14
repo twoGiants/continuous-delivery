@@ -68,3 +68,7 @@ tba
 ## Recommended Literature
 
 A list of authors, books and articles recommended by the Contninuous Delivery authors.
+
+- James Shore
+  - [The Art of Agile Development book](https://www.jamesshore.com/v2/books/aoad2)
+  - [Testing Without Mocks article](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
